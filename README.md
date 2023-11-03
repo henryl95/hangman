@@ -1,5 +1,5 @@
 # Hangman in Python
-This is a python project from college that I have completed for my finals. This undertaking consists of one semester's worth of studies from an Intro to Python college course.
+This is a python project from college that I have completed for my finals. My python knowledge at the time of creating this consists of one semester's worth of studies in an Intro to Python college course. The course's curriculum did not go over some of the coding techniques found in the source code, I took the initiative to learn further and beyond the scope of the curriculum.
 The project itself took 1 week to plan and execute.
 
 The premise of this python project is create a simple and lightweight game of "Hangman." I have created the game with a GUI for a positive user experience, as well as to go beyond my professor's expectations.
